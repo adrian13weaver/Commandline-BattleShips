@@ -1,0 +1,14 @@
+/Users/adrianweaver/Desktop/Programming2/Project-2/bin/Debug/net8.0/Project-2
+/Users/adrianweaver/Desktop/Programming2/Project-2/bin/Debug/net8.0/Project-2.deps.json
+/Users/adrianweaver/Desktop/Programming2/Project-2/bin/Debug/net8.0/Project-2.runtimeconfig.json
+/Users/adrianweaver/Desktop/Programming2/Project-2/bin/Debug/net8.0/Project-2.dll
+/Users/adrianweaver/Desktop/Programming2/Project-2/bin/Debug/net8.0/Project-2.pdb
+/Users/adrianweaver/Desktop/Programming2/Project-2/obj/Debug/net8.0/Project-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianweaver/Desktop/Programming2/Project-2/obj/Debug/net8.0/Project-2.AssemblyInfoInputs.cache
+/Users/adrianweaver/Desktop/Programming2/Project-2/obj/Debug/net8.0/Project-2.AssemblyInfo.cs
+/Users/adrianweaver/Desktop/Programming2/Project-2/obj/Debug/net8.0/Project-2.csproj.CoreCompileInputs.cache
+/Users/adrianweaver/Desktop/Programming2/Project-2/obj/Debug/net8.0/Project-2.dll
+/Users/adrianweaver/Desktop/Programming2/Project-2/obj/Debug/net8.0/refint/Project-2.dll
+/Users/adrianweaver/Desktop/Programming2/Project-2/obj/Debug/net8.0/Project-2.pdb
+/Users/adrianweaver/Desktop/Programming2/Project-2/obj/Debug/net8.0/Project-2.genruntimeconfig.cache
+/Users/adrianweaver/Desktop/Programming2/Project-2/obj/Debug/net8.0/ref/Project-2.dll

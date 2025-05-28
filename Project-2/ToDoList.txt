@@ -1,0 +1,14 @@
+------Make it so ships can't be set onto tiles that already have a ships
+
+------Board Compare function to find a hit or miss 
+
+------Clean up the code so its not nonsensical 
+
+------Make a turn funtion that plays each players turn
+
+------Be able to tell the player if they sunk a ship or just got a hit
+
+*End the game when all ships are sunk
+
+NO Add bad AI? (would just hit random tiles)
+

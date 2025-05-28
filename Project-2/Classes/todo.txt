@@ -1,0 +1,17 @@
+-- change the turn variable to be a global variable and change all the other functions to use it
+change the logic so that its not spagetti code
+move game over out of play loop into its own function
+-- change turn to void and not static
+-- dont declare variables in the parameters
+-- change playerready function to use the gloabl turn variable
+make a game over global vairable and make its bool change instead of using the function
+find a way to not have the printboards function to not be used over and over
+make the player class a thing with their boards attached
+
+ADD COMPUTER PLAYER
+-random shots until it hits then it shoots on a grid line until the ship dies
+-be able to tell if a ship died that turn
+-can reuse the logic to loop through tiles but for shots
+-need to track it over the turns (maybe a array or something that can track the shots over a "ship area")
+
+GLOBAL VAIRABLES IN PascalCase
