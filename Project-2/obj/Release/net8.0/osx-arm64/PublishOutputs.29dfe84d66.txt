@@ -1,0 +1,2 @@
+/Users/adrianweaver/Commandline-BattleShips/Project-2/bin/Release/net8.0/osx-arm64/publish/Project-2.pdb
+/Users/adrianweaver/Commandline-BattleShips/Project-2/bin/Release/net8.0/osx-arm64/publish/Project-2

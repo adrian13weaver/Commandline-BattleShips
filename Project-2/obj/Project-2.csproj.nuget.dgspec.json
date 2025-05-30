@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/adrianweaver/Desktop/Programming2/Project-2/Project-2.csproj": {}
+    "/Users/adrianweaver/Commandline-BattleShips/Project-2/Project-2.csproj": {}
   },
   "projects": {
-    "/Users/adrianweaver/Desktop/Programming2/Project-2/Project-2.csproj": {
+    "/Users/adrianweaver/Commandline-BattleShips/Project-2/Project-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adrianweaver/Desktop/Programming2/Project-2/Project-2.csproj",
+        "projectUniqueName": "/Users/adrianweaver/Commandline-BattleShips/Project-2/Project-2.csproj",
         "projectName": "Project-2",
-        "projectPath": "/Users/adrianweaver/Desktop/Programming2/Project-2/Project-2.csproj",
+        "projectPath": "/Users/adrianweaver/Commandline-BattleShips/Project-2/Project-2.csproj",
         "packagesPath": "/Users/adrianweaver/.nuget/packages/",
-        "outputPath": "/Users/adrianweaver/Desktop/Programming2/Project-2/obj/",
+        "outputPath": "/Users/adrianweaver/Commandline-BattleShips/Project-2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/adrianweaver/.nuget/NuGet/NuGet.Config"
@@ -43,6 +43,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -54,12 +62,31 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[8.0.10, 8.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.10, 8.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[8.0.10, 8.0.10]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }

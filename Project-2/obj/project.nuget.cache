@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "og6qrxQ7oPk=",
+  "dgSpecHash": "bBihChkdSA0=",
   "success": true,
-  "projectFilePath": "/Users/adrianweaver/Desktop/Programming2/Project-2/Project-2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/adrianweaver/Commandline-BattleShips/Project-2/Project-2.csproj",
+  "expectedPackageFiles": [
+    "/Users/adrianweaver/.nuget/packages/microsoft.net.illink.tasks/8.0.10/microsoft.net.illink.tasks.8.0.10.nupkg.sha512",
+    "/Users/adrianweaver/.nuget/packages/microsoft.netcore.app.runtime.win-x64/8.0.10/microsoft.netcore.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "/Users/adrianweaver/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/8.0.10/microsoft.aspnetcore.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "/Users/adrianweaver/.nuget/packages/microsoft.netcore.app.host.win-x64/8.0.10/microsoft.netcore.app.host.win-x64.8.0.10.nupkg.sha512"
+  ],
   "logs": []
 }
